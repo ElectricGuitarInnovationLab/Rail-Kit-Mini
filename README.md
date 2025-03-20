@@ -1,6 +1,6 @@
 # the Les Paul Rail Kit
 ...like the full Les Paul Rail Kit...but smaller and interlocking! This kit is DIY 3D-printable kit inspired by Les Paul's Rail—developed and maintain by the [RATLab](http://ratlab.wpi.edu) through ongoing projects about Les Paul, which are being explored at [the Electric Guitar Innovation Lab](http://electricguitarinnovationlab.org/lespaul) (EGIL).<br><br>
-See also our full-size dual-string Rail Kit [here]([http://lespaulcamp.org](https://github.com/ElectricGuitarInnovationLab/Les-Paul-Rail-Kit))
+See also our full-size dual-string Rail Kit [here]((https://github.com/ElectricGuitarInnovationLab/Les-Paul-Rail-Kit)
 
 This research was sponsored by the Les Paul Foundation; to learn more about Les Paul's life of innovation, visit http://les-paul.com <br>
 
