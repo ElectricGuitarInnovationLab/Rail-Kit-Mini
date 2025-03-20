@@ -54,5 +54,5 @@ These models are an open community effort and released here under the following 
 # Project Personnel
 * V.J. Manzo, WPI Faculty and Founding PI and Director of the RATLab
 * Anthony Gilbet, WPI undergraduate student
-* Kyle Edwards, WPI undergraduate student
+* Lyle Edwards, WPI undergraduate student
 * Dexter Stark, WPI undergraduate student
